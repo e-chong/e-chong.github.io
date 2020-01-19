@@ -13,7 +13,7 @@ A vignette summarizing the R code and visualizations I created for Professor Meg
 ---
 [Predicting Home Sale Prices in San Francisco](/html/Predicting_San_Francisco_Home_Sale_Prices.html)
 
-A model for predicting home sale prices in San Francisco that [@\_ntab](https://twitter.com/_ntab "Natasha Tabachnikoff") and I created for the _Public Policy Analytics_ class [@PennMUSA](https://twitter.com/PennMUSA "PennMUSA").
+A model for predicting home sale prices in San Francisco that [Natasha Tabachnikoff](https://www.linkedin.com/in/natasha-tabachnikoff/ "Natasha Tabachnikoff") and I created for the _Public Policy Analytics_ class [@PennMUSA](https://twitter.com/PennMUSA "PennMUSA").
 
 <img src="images/San Francisco Housing Price Prediction-01.png?raw=true"/>
 
