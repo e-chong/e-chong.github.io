@@ -13,13 +13,26 @@ A vignette summarizing the R code and visualizations I created for Professor Meg
 ---
 [Predicting Home Sale Prices in San Francisco](/html/Predicting_San_Francisco_Home_Sale_Prices.html)
 
-A model for predicting home sale prices in San Francisco that [Natasha Tabachnikoff](https://www.linkedin.com/in/natasha-tabachnikoff/ "Natasha Tabachnikoff") and I created for the _Public Policy Analytics_ class [@PennMUSA](https://twitter.com/PennMUSA "PennMUSA").
+[Natasha Tabachnikoff](https://www.linkedin.com/in/natasha-tabachnikoff/ "Natasha Tabachnikoff") and I collaborated to create this model for predicting home sale prices in San Francisco.
 
 <img src="images/San Francisco Housing Price Prediction-01.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Modeling Flood Inundation in Calgary and Edmonton, Alberta
+
+A model for predicting flood inundation in Calgary and Edmonton that [Leo Harth](https://www.linkedin.com/in/leonardo-harth/ "Leonardo Harth") and I created for the _Land Use and Environmental Modeling_ class [@PennMUSA](https://twitter.com/PennMUSA "PennMUSA"). The deliverables included a video introducing our model and comparing alternative modeling approaches as well as a short pdf summarizing our results.
+
+- [Video Summary](http://example.com/)
+- [Results PDF](/pdf/Flood Model Results.pdf)
+
+<img src="images/Flood Inundation Model-01.png?raw=true"/>
+
+---
+[Phoenixville 2030 - A Comprehensive Plan for Phoenixville, PA](/pdf/Phoenixville.pdf)
+
+A comprehensive plan that several classmates and I created for the Borough of Phoenixville, Pennsylvania.
+
+<img src="images/Phoenixville-01.png?raw=true"/>
 
 ---
 
