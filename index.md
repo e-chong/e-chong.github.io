@@ -11,7 +11,7 @@ A vignette summarizing the R code and visualizations I created for Professor Meg
 ---
 **[Shiny App for Simulating MLB Contracts (draft)](https://e-chong.shinyapps.io/contract_opt-out_app/ "MLB Contract Opt-Out App")**
 
-Inspired by [this piece](https://blogs.fangraphs.com/whats-an-opt-out-worth/ "What's an Opt Out Worth?") from FanGraphs' writer Ben Clemens, I implemented the [Python script](https://github.com/bclemens6/variable-contract-opt-outs/blob/master/WAR%20Per%20Dollar%20With%20Options.py) for Ben's model in R and created a basic Shiny app that allows users to simulate the likelihood that an MLB player with exercise an opt-out clause in his contract.
+Inspired by [this piece](https://blogs.fangraphs.com/whats-an-opt-out-worth/ "What's an Opt Out Worth?") from FanGraphs' writer Ben Clemens, I implemented the [Python script](https://github.com/bclemens6/variable-contract-opt-outs/blob/master/WAR%20Per%20Dollar%20With%20Options.py) for Ben's model in R and created a basic Shiny app that allows users to simulate the likelihood that an MLB player will exercise the opt-out clause in his contract.
 
 <img src="images/opt-out app-01.png?raw=true"/>
 
