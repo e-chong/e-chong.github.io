@@ -9,6 +9,13 @@ A vignette summarizing the R code and visualizations I created for Professor Meg
 <img src="images/Airport Choice in Mega Regions thumbnail-01.png?raw=true"/>
 
 ---
+**[Shiny App for Simulating MLB Contracts (draft)](https://e-chong.shinyapps.io/contract_opt-out_app/ "MLB Contract Opt-Out App")**
+
+Inspired by [this piece](https://blogs.fangraphs.com/whats-an-opt-out-worth/ "What's an Opt Out Worth?") from FanGraphs' writer Ben Clemens, I implemented the [Python script](https://github.com/bclemens6/variable-contract-opt-outs/blob/master/WAR%20Per%20Dollar%20With%20Options.py) for Ben's model in R and created a basic Shiny app that allows users to simulate the likelihood that an MLB player with exercise an opt-out clause in his contract.
+
+<img src="images/opt-out app-01.png?raw=true"/>
+
+---
 **[Predicting Home Sale Prices in San Francisco](/html/Predicting_San_Francisco_Home_Sale_Prices.html)**
 
 [Natasha Tabachnikoff](https://www.linkedin.com/in/natasha-tabachnikoff/ "Natasha Tabachnikoff") and I collaborated to create this model for predicting home sale prices in San Francisco.
