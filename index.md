@@ -2,7 +2,7 @@
 
 ---
 
-**[Airport Market Leakage -- Airport Choice in Mega Regions](/html/Airport_Market_Leakage_Code_Library_and_Overview.html)**
+**[Airport Market Leakage -- Airport Choice in Megaregions](/html/Airport_Market_Leakage_Code_Library_and_Overview.html)**
 
 A vignette summarizing the R code and visualizations I created for Professor Megan S. Ryerson and Professor Amy M. Kim's research into airport choice in megaregions like Texas-Oklahoma-Louisiana.
 
