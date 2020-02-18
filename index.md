@@ -27,7 +27,7 @@ Inspired by [this piece](https://blogs.fangraphs.com/whats-an-opt-out-worth/ "Wh
 
 A model for predicting flood inundation in Calgary and Edmonton that [Leo Harth](https://www.linkedin.com/in/leonardo-harth/ "Leonardo Harth") and I created for the _Land Use and Environmental Modeling_ class [@PennMUSA](https://twitter.com/PennMUSA "PennMUSA"). The deliverables included a video introducing our model and comparing alternative modeling approaches as well as a short pdf summarizing our results.
 
-- [Video Summary](http://example.com/)
+- [Video Summary](https://www.youtube.com/watch?v=cpun8Q8eyC8&feature=youtu.be "Calgary / Edmonton Flood Inundation Modeling")
 - [Results PDF](/pdf/Flood Model Results.pdf)
 
 <img src="images/Flood Inundation Model-01.png?raw=true"/>
