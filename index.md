@@ -11,7 +11,7 @@ A vignette summarizing the R code and visualizations I created for Professor Meg
 ---
 **EuroSAT Land Use and Land Cover Classification using Deep Learning**
 
-In this notebook, I used deep learning methods (implemented in Python and Keras) to identify land use and land cover classifications for images in the EuroSAT dataset, a collection of 27,000 Sentinel-2 satellite images consisting of 13 spectral bands and 10 pre-labeled classes (e.g., Highway, AnnualCrop, River, Residential).
+In this notebook, I used deep learning methods (implemented in Python using Keras) to identify land use and land cover classifications for images in the [EuroSAT dataset](https://github.com/phelber/eurosat "EuroSAT"), a collection of 27,000 Sentinel-2 satellite images consisting of 13 spectral bands and 10 pre-labeled classes (e.g., Highway, AnnualCrop, River, Residential).
 
 My best overall model was able to accurately classify 94.9% of the images in a 50% testing set.
 
