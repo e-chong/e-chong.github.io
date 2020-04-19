@@ -9,9 +9,23 @@ A vignette summarizing the R code and visualizations I created for Professor Meg
 <img src="images/Airport Choice in Mega Regions thumbnail-01.png?raw=true"/>
 
 ---
+**EuroSAT Land Use and Land Cover Classification using Deep Learning**
+
+In this notebook, I used deep learning methods (implemented in Python and Keras) to identify land use and land cover classifications for images in the EuroSAT dataset, a collection of 27,000 Sentinel-2 satellite images consisting of 13 spectral bands and 10 pre-labeled classes (e.g., Highway, AnnualCrop, River, Residential).
+
+My best overall model was able to accurately classify 94.9% of the images in a 50% testing set.
+
+- [Run notebook in Google Colab](https://colab.research.google.com/github/e-chong/Remote-Sensing/blob/master/EuroSAT%20Land%20Cover%20Classification/EuroSAT%20Land%20Use%20and%20Land%20Cover%20Classification%20using%20Deep%20Learning.ipynb "Open in Colab")
+- [View source on GitHub](https://github.com/e-chong/Remote-Sensing/blob/master/EuroSAT%20Land%20Cover%20Classification/EuroSAT%20Land%20Use%20and%20Land%20Cover%20Classification%20using%20Deep%20Learning.ipynb "GitHub Source")
+
+<img src="images/EuroSAT thumbnail-01.png?raw=true"/>
+
+---
 **[Shiny App for Simulating MLB Contracts (draft)](https://e-chong.shinyapps.io/contract_opt-out_app/ "MLB Contract Opt-Out App")**
 
 Inspired by [this piece](https://blogs.fangraphs.com/whats-an-opt-out-worth/ "What's an Opt Out Worth?") from FanGraphs' writer Ben Clemens, I implemented Ben's model in R and created a Shiny app that allows users to project the likelihood that an MLB player will exercise the opt-out clause in his contract using Monte Carlo methods.
+
+- [View source on GitHub](https://github.com/e-chong/MLB-ContractOptOut-App/tree/master "GitHub Source")
 
 <img src="images/opt-out app-01.png?raw=true"/>
 
