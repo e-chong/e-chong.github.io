@@ -21,6 +21,16 @@ My best overall model was able to accurately classify 94.9% of the images in a 5
 <img src="images/EuroSAT thumbnail-01.png?raw=true"/>
 
 ---
+**Scooter Demand Prediction**
+
+[Yijia Liu](https://ophelialyj.github.io/ "Yijia Liu"), [Xinyi Miao](https://xinyimsumyee.github.io/ "Xinyi Miao"), and I created this model for predicting demand for dockless shared scooters in cities that do not currently have the vehicles. We also created a proof-of-concept web application for users to visualize the geography of our predictions and compare them to several demographic and socio-economic indicators.
+
+- [Project Notebook](https://pennmusa.github.io/MUSA_801.io/project_14/index.html "Project Notebook")
+- [Web Application](https://ophelialyj.github.io/MUSA_practicum_scooter/#!/ "Web Application")
+
+<img src="images/Scooter Demand-01?raw=true"/>
+
+---
 **[Shiny App for Simulating MLB Contracts (draft)](https://e-chong.shinyapps.io/contract_opt-out_app/ "MLB Contract Opt-Out App")**
 
 Inspired by [this piece](https://blogs.fangraphs.com/whats-an-opt-out-worth/ "What's an Opt Out Worth?") from FanGraphs' writer Ben Clemens, I implemented Ben's model in R and created a Shiny app that allows users to project the likelihood that an MLB player will exercise the opt-out clause in his contract using Monte Carlo methods.
