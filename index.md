@@ -28,7 +28,7 @@ My best overall model was able to accurately classify 94.9% of the images in a 5
 - [Project Notebook](https://pennmusa.github.io/MUSA_801.io/project_14/index.html "Project Notebook")
 - [Web Application](https://ophelialyj.github.io/MUSA_practicum_scooter/#!/ "Web Application")
 
-<img src="images/Scooter Demand-01?raw=true"/>
+<img src="images/Scooter Demand-01.png?raw=true"/>
 
 ---
 **[Shiny App for Simulating MLB Contracts (draft)](https://e-chong.shinyapps.io/contract_opt-out_app/ "MLB Contract Opt-Out App")**
