@@ -2,6 +2,21 @@
 
 ---
 
+**Azavea - Summer of Maps Fellowship**
+
+As a fellow in Azavea's [Summer of Maps](https://www.summerofmaps.com/) program, I worked on geospatial analysis projects for two non-profit organization clients:
+
+- **The State Gun Law Project:** In this project, I identified and mapped patterns of spatial clustering over time in a novel gun crime dataset created by [The State Gun Law Project](https://stategunlawproject.org/) that spanned 34 cities and several decades.  
+  + [Blog post](https://www.azavea.com/blog/2020/09/04/choosing-cell-size-for-point-pattern-analysis/)
+  + [GitHub repository](https://github.com/summer-of-maps/2020-PennPraxis-StateGunLawProject)
+- **OpenStreetMap US:** In this project with [OpenStreetMap US](https://www.openstreetmap.us/), I measured and visualized progress on UN Sustainable Development Goals across several American cities using data from OpenStreetMap. I compared these results to measurements made using city-published datasets and found that, while data quality varied by city, OpenStreetMap could be a viable and scalable source of geospatial data for monitoring the UN SDGs.
+  + [Blog post](https://www.azavea.com/blog/2020/09/11/openstreetmap-and-the-sustainable-development-goals/)
+  + [GitHub repository](https://github.com/summer-of-maps/2020-OSMUS-SDGs)
+
+<img src="images/Azavea thumbnail-01.png?raw=true"/>
+
+---
+
 **[Airport Market Leakage -- Airport Choice in Megaregions](/html/Airport_Market_Leakage_Code_Library_and_Overview.html)**
 
 A vignette summarizing the R code and visualizations I created for Professor Megan S. Ryerson and Professor Amy M. Kim's research into airport choice in megaregions like Texas-Oklahoma-Louisiana.
