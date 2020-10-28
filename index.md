@@ -2,9 +2,9 @@
 
 ---
 
-**Azavea - Summer of Maps Fellowship**
+**[Azavea - Summer of Maps Fellowship](https://www.summerofmaps.com/)**
 
-As a fellow in Azavea's [Summer of Maps](https://www.summerofmaps.com/) program, I worked on geospatial analysis projects for two non-profit organization clients:
+As a fellow in [Azavea's](https://www.azavea.com/) Summer of Maps program, I worked on geospatial analysis projects for two non-profit organization clients:
 
 - **The State Gun Law Project:** In this project, I identified and mapped patterns of spatial clustering over time in a novel gun crime dataset created by [The State Gun Law Project](https://stategunlawproject.org/) that spanned 34 cities and several decades.  
   + [Blog post](https://www.azavea.com/blog/2020/09/04/choosing-cell-size-for-point-pattern-analysis/)
