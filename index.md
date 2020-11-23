@@ -72,10 +72,3 @@ A model for predicting flood inundation in Calgary and Edmonton that [Leo Harth]
 <img src="images/Flood Inundation Model-01.png?raw=true"/>
 
 ---
-**[Phoenixville 2030 - A Comprehensive Plan for Phoenixville, PA](/pdf/Phoenixville.pdf)**
-
-A comprehensive plan that several classmates and I created for the Borough of Phoenixville, Pennsylvania.
-
-<img src="images/Phoenixville-01.png?raw=true"/>
-
----
